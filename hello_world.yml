@@ -5,5 +5,5 @@
     - name: ajout fichier
       file:
          path: /home/ansadmin/test.txt
-         state=touch
+         state: touch
 
